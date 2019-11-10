@@ -1,0 +1,19 @@
+{
+  "name": "basic_typescript_with_blockchain",
+  "version": "1.0.0",
+  "description": "Learn typescript with Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonghoheo/Basic_typescript_with_Blockchain.git"
+  },
+  "author": "jeonghoheo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonghoheo/Basic_typescript_with_Blockchain/issues"
+  },
+  "homepage": "https://github.com/jeonghoheo/Basic_typescript_with_Blockchain#readme"
+}
